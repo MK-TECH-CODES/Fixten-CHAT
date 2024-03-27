@@ -5,4 +5,7 @@
 To install the necessary dependencies, run the following command:
 
 ```bash
-npm install
+npm init
+```
+For the initialize the project dependences.
+
